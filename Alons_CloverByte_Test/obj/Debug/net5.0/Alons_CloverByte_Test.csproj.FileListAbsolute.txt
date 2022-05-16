@@ -1,0 +1,16 @@
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\bin\Debug\net5.0\Alons_CloverByte_Test.exe
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\bin\Debug\net5.0\Alons_CloverByte_Test.deps.json
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\bin\Debug\net5.0\Alons_CloverByte_Test.runtimeconfig.json
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\bin\Debug\net5.0\Alons_CloverByte_Test.runtimeconfig.dev.json
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\bin\Debug\net5.0\Alons_CloverByte_Test.dll
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\bin\Debug\net5.0\Alons_CloverByte_Test.pdb
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.csproj.AssemblyReference.cache
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.AssemblyInfoInputs.cache
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.AssemblyInfo.cs
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.csproj.CoreCompileInputs.cache
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.dll
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\refint\Alons_CloverByte_Test.dll
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.pdb
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\Alons_CloverByte_Test.genruntimeconfig.cache
+C:\Users\Daimnon's\source\repos\Alons_CloverByte_Test\Alons_CloverByte_Test\obj\Debug\net5.0\ref\Alons_CloverByte_Test.dll
