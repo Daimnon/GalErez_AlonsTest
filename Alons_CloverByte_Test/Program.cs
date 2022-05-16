@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Alons_CloverByte_Test
+﻿namespace Alons_CloverByte_Test
 {
     internal class Program
     {
@@ -10,11 +8,15 @@ namespace Alons_CloverByte_Test
         {
             /********* Stage One *********/
 
+            #region Exercise 1.1 - 1.4
+            
             // 1.(ExerciseNumber) Prints it in reverse.
-            //stage1.ExerciseNum = 4;
+            stage1.ExerciseNum = 1;
 
             // calling the method
-            //stage1.ReverseArray(stage1.ArrayToInput);
+            stage1.ReverseArray(stage1.ArrayToInput);
+
+            #endregion
 
             #region Exercise 2.1 Example
 
@@ -46,6 +48,10 @@ namespace Alons_CloverByte_Test
             #endregion
 
             /******* Stage One End *******/
+
+
+
+
 
 
 

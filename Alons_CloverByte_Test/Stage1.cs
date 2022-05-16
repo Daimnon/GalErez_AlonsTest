@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Alons_CloverByte_Test
 {
@@ -41,7 +37,14 @@ namespace Alons_CloverByte_Test
 
                 // 1.2 Returns an int[] reversedArray of inputArray (the same values, but 	reversed).
                 case 2:
+                    Array.Reverse(tempArray);
+                    for (int i = 0; i < tempArray.Length; i++)
+                    {
+                        Console.WriteLine(tempArray[i]);
+                    }
                     reversedArray = tempArray;
+
+                    Console.WriteLine();
                     Console.WriteLine($"The method returned {reversedArray} with {reversedArray.Length} items inside");
                     break;
 

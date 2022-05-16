@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Alons_CloverByte_Test
+﻿namespace Alons_CloverByte_Test
 {
     public struct Vector2
     {
