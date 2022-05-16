@@ -160,7 +160,7 @@ namespace Alons_CloverByte_Test
         #region Exercise 5
 
         // 5
-        // an int[,] is a two dimentional array while an int[][] is an array that hold arrays.
+        // an int[,] is a two dimentional array while an int[][] is an array that hold arrays (called jagged array).
 
         #endregion
 
