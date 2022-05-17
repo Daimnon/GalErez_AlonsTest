@@ -1,4 +1,6 @@
-﻿namespace Alons_CloverByte_Test
+﻿using System;
+
+namespace Alons_CloverByte_Test
 {
     internal class Program
     {
